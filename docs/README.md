@@ -48,8 +48,8 @@
 
 | 文档 | 内容 |
 | --- | --- |
-| [docs/电控篇.md](docs/电控篇.md) | 底盘驱动、机械臂控制、遥控、视觉模块 |
-| [docs/机械篇.md](docs/机械篇.md) | 底盘结构设计与迭代、机械臂结构设计与迭代、物理防护设计、空间布局与后续规划 |
+| [https://github.com/DECHU05/Noname/blob/main/docs/%E6%9C%BA%E6%A2%B0%E7%AF%87.md](docs/电控篇.md) | 底盘驱动、机械臂控制、遥控、视觉模块 |
+| [docs/机械篇.md](https://github.com/DECHU05/Noname/blob/main/docs/%E6%9C%BA%E6%A2%B0%E7%AF%87.md) | 底盘结构设计与迭代、机械臂结构设计与迭代、物理防护设计、空间布局与后续规划 |
 
 ## 开源项目说明
 
